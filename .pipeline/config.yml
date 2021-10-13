@@ -1,6 +1,6 @@
 steps:
   gctsExecuteABAPUnitTests:
-    host: 'http://63.32.62.246:8000'
+    host: 'http://63.32.62.246:8200'
     client: '100'
     abapCredentialsId: 'ABAPUserPasswordCredentialsId'
     repository: 'gcts_test'
